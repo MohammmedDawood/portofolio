@@ -1,6 +1,6 @@
 # PORTOFOLIO PROJECT
 
-[Click here to play](https://mahmedtony73.github.io/memorygame/)
+[Click here to play](https://mahmedtony73.github.io/portofolio/)
 
 ## What I've Learned:
     - removing horizontal scrolling
