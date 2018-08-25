@@ -1,8 +1,7 @@
-# Project_1
+# PORTOFOLIO PROJECT
 
+[Click here to play](https://mahmedtony73.github.io/memorygame/)
 
-## portfolio site
-
-you can run by oppening mahmedtony73.git.io
-
-removing horizontal scrolling
+## What I've Learned:
+    - removing horizontal scrolling
+    - write CSS and HTML
