@@ -44,7 +44,7 @@ html, body {
 
 .project h3 {
 	text-align: center;
-	text-transform: uppercase;
+	text-transform: capitalize;
 }
 
 .project p {
